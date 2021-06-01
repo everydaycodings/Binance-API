@@ -1,8 +1,6 @@
-# Binance-API
-Trading Bot For Binance Using Binance API
 # Project Title
 
-A short description about the project and/or client.
+Trading Bot For Binance Using Binance API
 
 ## Getting Started
 
@@ -16,9 +14,17 @@ A step by step guide that will tell you how to get the development environment u
 ```
 $ python3 -r requirements.txt
 ```
+### Setup for main.py
+
+The things you need before installing the software.
+
+* Enter The API and API Secret Key in line 12 and 13
+* Enter The Asset Name and Pair Asset Name in line 21 and 22
+* Enter the seconds you want the script to Loop in line 23
+* Enter Your Email Details in line 33, 34, 35
+ 
 
 ## Usage
 ```
 $ python3 main.py
 ```
-
